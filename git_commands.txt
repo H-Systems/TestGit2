@@ -20,4 +20,6 @@ git add
 git commited -m
 git push
 
+git의 merge기능
+
 Local File을 수정했습니다.
