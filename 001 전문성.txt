@@ -1,0 +1,23 @@
+프론트 엔드
+1. HTML & CSS3
+2. JavaScript & Jquery
+
+3. 부트스트랩
+4. vie.js
+
+백엔드
+1. PHP & MySQL & MariaDB
+2. Linux
+3. Network
+
+4. JAVA
+ 4-1. JSP
+ 4-2. SPRING
+5. Git
+6. OracleDB
+7. Node.js
+8. 랭귤러.js
+
+스펙관리
+1. 정보처리
+2. 정보보안
